@@ -1,0 +1,2 @@
+# CinK
+Centralized integrated Kernel
